@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/src
+Disallow: /assets/dist
+Disallow: /gulpfile.js
+Disallow: /php
+Disallow: /vendor

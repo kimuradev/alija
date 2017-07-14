@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+
+		<!-- Basic -->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<title>Arauweb - Sua vitrine na web</title>
+
+		<meta name="keywords" content="HTML5 Template" />
+		<meta name="description" content=">Criação de sites personalizados. Possuímos pacotes com valores mensais ou pacotes com valores fixos. Solicite agora mesmo o seu orçamento sem compromisso.">
+		<meta name="Leandro Kimura" content="www.arauweb.com.br">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="assets/src/img/favicon-arau.ico" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="assets/src/img/apple-touch-icon.png">
+
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<!-- Web Fonts  -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+
+		<!-- Theme Custom CSS -->
+		<link rel="stylesheet" href="assets/dist/css/style.min.css">
+
+	</head>
+	<body class="container arauweb-error-background"data-spy="scroll" data-offset="100">
+
+    <svg height="100" width="100">
+      <polygon points="50,25 17,80 82,80" stroke-linejoin="round" style="fill:none;stroke:#89b837;stroke-width:8" />
+      <text x="42" y="74" fill="#89b837" font-family="sans-serif" font-weight="900" font-size="42px">!</text>
+    </svg>
+    <div class="row">
+       <div class="col-md-12 text-center">
+         <div class="main-icon text-warning"><span class="uxicon uxicon-alert"></span></div>
+            <h1>Página não encontrada (Erro 404)</h1>
+       </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6 col-md-push-3">
+        <p class="lead">Volte a nossa página inicial clicando no link abaixo.</p>
+        <a href="http://www.arauweb.com.br">Voltar ao início</a>
+      </div>
+    </div>
+
+	</body>
+</html>
